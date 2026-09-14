@@ -1,4 +1,4 @@
-# Olá, meu nome é Barbara 👋
+# Olá, meu nome é Barbara
 
 **`Em transição de carreira`**
 
