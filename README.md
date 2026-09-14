@@ -2,7 +2,7 @@
 
 **`Em transição de carreira`**
 
-Eu sou escritora, editora e tradutora. Atualmente estudando Antropologia. Por anos eu trabalhei com Social Media e isso me fez querer aprender mais sobre diferentes áreas da tecnologia. Agora faço parte do Mulher Digital e estou usando o GitHub para organizar o que aprendo sobre a área e mostrar o meu desenvolvimento. 
+Eu sou escritora, editora e tradutora. Atualmente estudando Antropologia. Por anos eu trabalhei com Social Media e isso me fez querer aprender mais sobre diferentes áreas da tecnologia. Agora faço parte da turma de 2026 do Mulher Digital e estou usando o GitHub para organizar o que aprendo sobre a área e mostrar o meu desenvolvimento. 
 
 <p align="left">
     <a href="https://github.com/BarbaraBurg?tab=followers">
